@@ -1,2 +1,2 @@
-#Exercises
+# Exercises
 ## Author: Aron Jhed Amiscosa
