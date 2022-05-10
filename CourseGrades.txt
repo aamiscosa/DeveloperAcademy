@@ -1,0 +1,13 @@
+
+Student  1: 	 95	 95	 95	 95	 95
+Student  2: 	 90	 90	 90	 90	 90
+Student  3: 	 93	 93	 93	 93	 93
+Student  4: 	 80	 80	 80	 80	 80
+Student  5: 	 85	 85	 85	 85	 85
+Student  6: 	 88	 88	 88	 88	 88
+Student  7: 	 75	 75	 75	 75	 75
+Student  8: 	 83	 83	 83	 83	 83
+Student  9: 	 94	 94	 94	 94	 94
+Student 10: 	 90	 90	 90	 90	 90
+Student 11: 	 97	 97	 97	 97	 97
+Student 12: 	 75	 85	 91	 94	 80

@@ -1,4 +1,4 @@
-package Chapter10.Exercise16;
+package Chapter12.Exercise18;
 
 public class Item {
     private static int uid = 1000;

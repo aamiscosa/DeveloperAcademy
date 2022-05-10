@@ -1,4 +1,4 @@
-package Chapter10.Exercise12;
+package Chapter12.Exercise16;
 
 import java.util.Scanner;
 
@@ -20,13 +20,15 @@ public class GradeBook {
         }
     }
 
-    public void showGrades() {
+    public String showGrades() {
+        StringBuilder sb = new StringBuilder();
         for(int studentId=0;studentId<_studentCount;studentId++) {
-            System.out.printf("\nStudent %2s: ", studentId+1);
+            sb.append(String.format("\nStudent %2s: ", studentId+1));
             for(int gradeId=0;gradeId<_testCount;gradeId++) {
-                System.out.printf("\t%3s", grades[studentId][gradeId]);
+                sb.append(String.format("\t%3s", grades[studentId][gradeId]));
             }
         }
+        return sb.toString();
     }
 
     public int studentAvg(int studentNumber) {
